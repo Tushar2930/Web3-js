@@ -7,6 +7,7 @@ const {
 
 const connection = new Connection(clusterApiUrl("devnet"), "confirmed");
 
+
 (async () => {
   const keypair = Keypair.generate();
 
