@@ -1,0 +1,22 @@
+{
+  "name": "web3",
+  "version": "1.0.0",
+  "description": "web3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tushar2930/Web3-js.git"
+  },
+  "author": "tushar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tushar2930/Web3-js/issues"
+  },
+  "homepage": "https://github.com/Tushar2930/Web3-js#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.66.2"
+  }
+}
